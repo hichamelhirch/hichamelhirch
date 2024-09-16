@@ -6,11 +6,11 @@
 
 ![](https://komarev.com/ghpvc/?username=hichamelhirch&color=brightgreen)
 
-- 🔭 Focusing on Full Stack Development (Frontend + Backend + DevOps).😎
+- 🔭 Focusing on Full Stack Development ( Backend +Frontend + DevOps).😎
 - 🌱 Trying to become an expert in Full Stack development ❤
 - 💻 I love exploring new tech stacks and building cool stuff.
 - 📰 Reading tech documentation whenever possible.
-- 🥅 2024 Goals: Learn Cloud on AWS and Azure.
+- 🥅 2025 Goals: Learn Cloud on AWS and Azure.
 - ⚡ Fun fact: In Java, `String` objects are immutable, which means once created, they cannot be changed. This immutability allows strings to be shared and reused efficiently, which improves performance and memory usage. 🚀
 
 ---
