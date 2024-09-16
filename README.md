@@ -25,13 +25,14 @@
 
 ### Languages and Tools:
 
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
 ![Java EE](https://img.shields.io/badge/Java%20EE-007396?style=flat-square&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![Spring Cloud](https://img.shields.io/badge/Spring%20Cloud-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![Spring Batch](https://img.shields.io/badge/Spring%20Batch-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![Spring AI](https://img.shields.io/badge/Spring%20AI-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-00BFAE?style=flat-square&logo=Microservices&logoColor=white)
+![Spring Data](https://img.shields.io/badge/Spring%20Data-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD003F?style=flat-square&logo=angular&logoColor=white)
 ![React.js](https://img.shields.io/badge/React.js-0081CB?style=flat-square&logo=react&logoColor=61DAFB)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
@@ -45,6 +46,7 @@
 ![OpenID Connect](https://img.shields.io/badge/OpenID%20Connect-0071BC?style=flat-square&logo=openid&logoColor=white)
 ![Flyway](https://img.shields.io/badge/Flyway-2D4A1F?style=flat-square&logo=flyway&logoColor=white)
 ![Liquibase](https://img.shields.io/badge/Liquibase-1F6C7D?style=flat-square&logo=liquibase&logoColor=white)
+
 
 
 ---
