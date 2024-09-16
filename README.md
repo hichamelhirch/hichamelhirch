@@ -16,16 +16,5 @@ I am a passionate **Full Stack Developer** specializing in **Java** and **Angula
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hichamelhirch&layout=compact&theme=dark)
 
-### Recent Activity
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
 
----
-
-- 🔭 I’m currently working on full-stack web applications using **Java Spring Boot** and **Angular**.
-- 🌱 I’m constantly learning and exploring new technologies in web development and cloud computing.
-- 👯 I’m looking to collaborate on open-source projects and innovative web applications.
-- 💬 Ask me about anything related to **Java**, **Spring Boot**, **Angular**, **REST APIs**, or **web development**.
-- 📫 How to reach me: Through the links above or at [hichamelhirch@gmail.com](mailto:hichamelhirch@gmail.com)
-- ⚡ Fun fact: I enjoy solving algorithm challenges on LeetCode and improving my problem-solving skills!
