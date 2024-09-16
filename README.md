@@ -43,29 +43,33 @@
 ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ---
-
 ### My GitHub Stats:
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hichamelhirch&show_icons=true&include_all_commits=true&theme=algolia&hide_border=true" alt="Hicham El Hirch's GitHub stats" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hichamelhirch&show_icons=true&include_all_commits=true&count_private=true&theme=algolia&hide_border=true" alt="Hicham El Hirch's GitHub stats" />
 </p>
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hichamelhirch&theme=algolia" alt="Hicham El Hirch's GitHub streak" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hichamelhirch&theme=algolia" alt="Hicham El Hirch's GitHub streak" />
 </p>
 
 ---
 
 ### Top Languages:
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hichamelhirch&layout=compact&theme=algolia&hide_border=true&&langs_count=10" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hichamelhirch&layout=compact&theme=algolia&hide_border=true&langs_count=10" />
+</p>
 
 ---
 
 ### Top Repositories
 
-<a href="https://github.com/hichamelhirch/developer-portfolio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hichamelhirch&repo=developer-portfolio&theme=algolia" />
-</a>
-<a href="https://github.com/hichamelhirch/express-postgres-blog">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hichamelhirch&repo=express-postgres-blog&theme=algolia" />
-</a>
+<p align="center">
+  <a href="https://github.com/hichamelhirch/developer-portfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hichamelhirch&repo=developer-portfolio&theme=algolia" />
+  </a>
+  <a href="https://github.com/hichamelhirch/express-postgres-blog">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hichamelhirch&repo=express-postgres-blog&theme=algolia" />
+  </a>
+</p>
+
