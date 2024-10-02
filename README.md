@@ -82,7 +82,7 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=hichamelhirch&repo=developer-portfolio&theme=algolia" />
   </a>
   <a href="https://github.com/hichamelhirch/MelodyFlow---Music-Streaming-Management-App">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hichamelhirch&repo=express-postgres-blog&theme=algolia" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hichamelhirch&repo=MelodyFlow---Music-Streaming-Management-App&theme=algolia" />
   </a>
 </p>
 
