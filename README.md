@@ -81,7 +81,7 @@
   <a href="https://github.com/hichamelhirch/developer-portfolio">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=hichamelhirch&repo=developer-portfolio&theme=algolia" />
   </a>
-  <a href="https://github.com/hichamelhirch/express-postgres-blog">
+  <a href="https://github.com/hichamelhirch/MelodyFlow---Music-Streaming-Management-App">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=hichamelhirch&repo=express-postgres-blog&theme=algolia" />
   </a>
 </p>
